@@ -1,4 +1,4 @@
-# Machine Learning Banco do Brasil.
+# Desafio de Acurácia Machine Learning Banco do Brasil.
 
 Código utilizado para o teste de acurácia do Banco do Brasil utilizando a base de dados Census.
 
@@ -21,6 +21,6 @@ Código utilizado para o teste de acurácia do Banco do Brasil utilizando a base
 - Calculo de perda do Log Loss por probabilidade
 - Impressão do Log Loss
 
-Credits
+Créditos
 -------
 by <a href="https://www.linkedin.com/in/joaopaulolndev/">[João Paulo Nascimento]</a>
