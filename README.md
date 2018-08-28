@@ -1,6 +1,8 @@
 <b>Desafio Machine Learning Banco do Brasil.</b>
 
-Fonte de Dados: Census.
+Código utilizado para o teste de acurácia do Banco do Brasil utilizando a base de dados Census.
+
+<i>Fonte de Dados: Census.</i>
 
 <b>Passos</b>
 - Import de Bibliotecas
@@ -18,3 +20,7 @@ Fonte de Dados: Census.
 - Precisão de Acuracia com RandomForest
 - Calculo de perda do Log Loss por probabilidade
 - Impressão do Log Loss
+
+Credits
+-------
+by <a href="https://www.linkedin.com/in/joaopaulolndev/">[João Paulo Nascimento]</a>
