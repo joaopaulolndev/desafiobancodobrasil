@@ -23,4 +23,4 @@ Código utilizado para o teste de acurácia do Banco do Brasil utilizando a base
 
 Créditos
 -------
-by <a href="https://www.linkedin.com/in/joaopaulolndev/">[João Paulo Nascimento]</a>
+<a href="https://www.linkedin.com/in/joaopaulolndev/">João Paulo Nascimento</a>
