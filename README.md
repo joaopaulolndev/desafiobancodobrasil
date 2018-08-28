@@ -1,4 +1,4 @@
-<b>Desafio Machine Learning Banco do Brasil.</b>
+# Machine Learning Banco do Brasil.
 
 Código utilizado para o teste de acurácia do Banco do Brasil utilizando a base de dados Census.
 
