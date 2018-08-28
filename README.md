@@ -2,6 +2,7 @@
 
 Fonte de Dados: Census.
 
+<b>Passos</b>
 - Import de Bibliotecas
 - Leitura do arquivo dataset
 - Verificado a quantidade de missing
